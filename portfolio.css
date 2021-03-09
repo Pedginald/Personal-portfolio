@@ -141,13 +141,11 @@ h1 {
 #about-me {
   width: 70%;
   margin: 100px auto;
-  font-style: italic;
   line-height: 25px;
 }
 
 #projects {
-  font-family: pinyon script;
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
   margin: 50px 30px;
 }
