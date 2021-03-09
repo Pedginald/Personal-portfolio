@@ -170,8 +170,13 @@ h1 {
   box-shadow: 3px 3px 10px black;
 }
 
-#projects a {
+.project-tile {
   margin: 30px;
+  transition: 1s;
+}
+
+.project-tile:hover {
+  transform: scale(1.1);
 }
 
 #contact {
